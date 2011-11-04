@@ -1,8 +1,0 @@
-<package project="Mer:Trunk:Base" name="libXmu">
-  <title>X.Org X11 libXmu/libXmuu runtime libraries</title>
-  <description>Description: %{summary}
-
-
-</description>
-  <url>http://www.x.org</url>
-</package>
